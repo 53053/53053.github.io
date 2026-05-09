@@ -2,5 +2,5 @@
 
 build:
 	pandoc readme.md -s \
-		--metadata title="53053" \
+		--metadata pagetitle="53053" \
 		-o index.html
